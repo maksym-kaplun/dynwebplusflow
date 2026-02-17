@@ -1,0 +1,17 @@
+{
+  "name": "Tvůj Jméno",
+  "role": "IT Student & Developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Git",
+    "VS Code"
+  ],
+  "interests": [
+    "Web Development",
+    "Umělá inteligence",
+    "Herní design",
+    "Kyberbezpečnost"
+  ]
+}
